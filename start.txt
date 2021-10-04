@@ -1,0 +1,9 @@
+Todo
+
+- Install visual studio
+- Install NPM
+- Install Puppetteer
+- Install Git
+- Setup project on Visual studio with everything above
+- Create a mongodb account
+- Link it to current project
